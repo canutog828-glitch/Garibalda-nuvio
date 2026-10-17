@@ -1,6 +1,6 @@
 {
   "name": "Garibalda Nuvio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scrapers": [
     {
       "id": "pomfy",
@@ -92,7 +92,7 @@
       "id": "myembed",
       "name": "MyEmbed",
       "description": "API de filmes e séries",
-      "version": "1.0.1",
+      "version": "2.0.0",
       "author": "lawlietbr",
       "supportedTypes": [
         "tv",
