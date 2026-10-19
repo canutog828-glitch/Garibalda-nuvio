@@ -92,7 +92,7 @@
       "id": "myembed",
       "name": "MyEmbed",
       "description": "API de filmes e séries",
-      "version": "2.0.1",
+      "version": "2.0.2",
       "author": "lawlietbr",
       "supportedTypes": [
         "tv",
