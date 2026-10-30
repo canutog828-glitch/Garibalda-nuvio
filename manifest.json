@@ -127,7 +127,7 @@
       "enabled": true,
       "formats": ["m3u8"],
       "contentLanguage": ["pt"]
-      ]
+     }
     }
   ]
 }
