@@ -120,7 +120,7 @@
       "id": "fshd",
       "name": "FSHD",
       "description": "FSHD - API | 1080p",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "saimuel",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/fshd.js",
