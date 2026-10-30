@@ -25,7 +25,7 @@ function carregarPlayer(containerId, embedUrl) {
   }
 
   // Define a URL do embed
-  iframe.src = embedUrl;
+  iframe.src = "https://www.painel-aso.sbs/embed/79501"
 }
 
 // Exemplo de uso
